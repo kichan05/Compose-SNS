@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389328007661",
+    "project_id": "sns-compose",
+    "storage_bucket": "sns-compose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389328007661:android:8f7cc7e9ae98fc6f9577e4",
+        "android_client_info": {
+          "package_name": "dev.kichan.sns"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqez4TgfqkaQLYqg7r-s09SHl6GdQloFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
